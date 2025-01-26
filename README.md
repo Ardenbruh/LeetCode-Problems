@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
