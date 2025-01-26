@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
