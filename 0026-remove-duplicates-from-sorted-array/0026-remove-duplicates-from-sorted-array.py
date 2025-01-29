@@ -1,10 +1,6 @@
 class Solution:
-  def removeDuplicates(self, nums: list[int]) -> int:
-    i = 0
+    def removeDuplicates(self, nums: List[int]) -> int:
 
-    for num in nums:
-      if i < 1 or num > nums[i - 1]:
-        nums[i] = num
-        i += 1
-
-    return i
+        expectedNums = set(nums)
+        nums[:] = sorted(list(expectedNums)) 
+        return len(expectedNums)
