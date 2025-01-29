@@ -1,8 +1,8 @@
 class Solution:
     def repeatedCharacter(self, s: str) -> str:
-        seen = {} 
+        seen = "" 
         for char in s:
             if char in seen: 
                 return char
-            seen[char] = 1  
+            seen += char  
         return ''  
