@@ -12,3 +12,5 @@ class Solution:
                 nums[write_index] = nums[i]
                 write_index += 1
         return write_index
+
+        #Time Complexity - O(n)
