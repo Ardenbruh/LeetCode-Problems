@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [2427-first-letter-to-appear-twice](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [2427-first-letter-to-appear-twice](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -70,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
