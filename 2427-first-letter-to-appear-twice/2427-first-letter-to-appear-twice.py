@@ -1,8 +1,11 @@
 class Solution:
     def repeatedCharacter(self, s: str) -> str:
-        seen = "" 
+        seen = 0  
         for char in s:
-            if char in seen: 
+            
+            bit = ord(char) - ord('a')
+           
+            if seen & (1 << bit):
                 return char
-            seen += char  
-        return ''  
+            seen |= (1 << bit)
+        return ''
