@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0326-power-of-three) |
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
