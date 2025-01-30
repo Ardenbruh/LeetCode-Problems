@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
