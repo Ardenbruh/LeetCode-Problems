@@ -8,3 +8,5 @@ class Solution:
             else:
                 res[-1][1] = max(res[-1][1],el[1])
         return res
+
+        #I had to take some help
