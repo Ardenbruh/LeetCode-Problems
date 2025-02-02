@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3429-special-array-i](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
