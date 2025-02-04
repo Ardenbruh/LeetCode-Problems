@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0342-power-of-four) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
