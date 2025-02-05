@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0070-climbing-stairs) |
