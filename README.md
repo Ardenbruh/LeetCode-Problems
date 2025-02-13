@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
 |  |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -128,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
