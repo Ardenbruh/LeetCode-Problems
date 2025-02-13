@@ -18,4 +18,4 @@ class Solution:
         for count in m.values():
             g = gcd(max(g,count), min(g,count))
         
-        return True if g>1 else False
+        return g>1
