@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1036-rotting-oranges](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3429-special-array-i](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/3429-special-array-i) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -147,4 +149,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
