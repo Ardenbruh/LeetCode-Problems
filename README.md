@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
