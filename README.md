@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0136-single-number) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1036-rotting-oranges) |
