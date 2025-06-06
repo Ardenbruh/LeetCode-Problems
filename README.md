@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
@@ -174,4 +175,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
