@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0419-battleships-in-a-board](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2427-first-letter-to-appear-twice](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
