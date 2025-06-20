@@ -25,4 +25,4 @@ class Solution:
                 else:
                     return False
 
-        return True if not stack else False #if not stack = if len(stack) == 0
+        return True if not stack else False #if not stack = if len(stack) == 
