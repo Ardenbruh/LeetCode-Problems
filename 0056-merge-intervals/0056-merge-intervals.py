@@ -6,7 +6,5 @@ class Solution:
             if len(res) == 0 or res[-1][1] < el[0]:
                 res.append(el)
             else:
-                res[-1][1] = max(res[-1][1],el[1])
+                res[-1][1] = max(res[-1][1], el[1])
         return res
-
-        #I had to take some help
