@@ -1,5 +1,6 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
+        
         oldColor = image[sr][sc]
         if oldColor == newColor:  
             return image
@@ -7,8 +8,10 @@ class Solution:
         rows, cols = len(image), len(image[0])
 
         def dfs(r, c):
+            
             if not (0 <= r < rows and 0 <= c < cols and image[r][c] == oldColor):
-                return
+                return image
+
             image[r][c] = newColor  
 
             dfs(r + 1, c)
