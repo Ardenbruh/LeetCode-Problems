@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1036-rotting-oranges](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1036-rotting-oranges) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3429-special-array-i](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/3429-special-array-i) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Memoization
 |  |
@@ -185,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
