@@ -10,7 +10,7 @@ class Solution:
                 elif grid[i][j] == 2:
                     rotq.appendleft((i,j,0))
         
-        if not fo:
+        if not fo: # fo == 0
             return 0
 
         directions = {(1,0),(-1,0),(0,1),(0,-1)}
@@ -19,7 +19,7 @@ class Solution:
             roi, roj, t = rotq.pop()
             for di, dj in directions:
                 noi, noj = roi + di, roj + dj
-                if -1<noi<m and -1<noj<n and grid[noi][noj]==1:
+                if (-1 < noi < m) and (-1 < noj < n) and grid[noi][noj]==1:
                     fo-=1
                     if not fo:
                         return t+1
