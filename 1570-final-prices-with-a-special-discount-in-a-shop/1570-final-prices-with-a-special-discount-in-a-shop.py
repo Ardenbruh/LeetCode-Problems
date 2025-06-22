@@ -11,7 +11,7 @@ class Solution:
         res = prices[:]
         stack = []
 
-        for i, el in enumerate(prices):
+        for i, el in enumerate(res):
             while stack and res[stack[-1]] >= el:
                 res[stack.pop()] -= el
             stack.append(i)
