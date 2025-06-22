@@ -13,16 +13,16 @@ class Solution:
         if not fo: # fo == 0
             return 0
 
-        directions = {(1,0),(-1,0),(0,1),(0,-1)}
+        directions = [(1,0),(-1,0),(0,1),(0,-1)]
 
         while rotq:
             roi, roj, t = rotq.pop()
             for di, dj in directions:
                 noi, noj = roi + di, roj + dj
-                if (-1 < noi < m) and (-1 < noj < n) and grid[noi][noj]==1:
+                if (0 <= noi < m) and (0 <= noj < n) and grid[noi][noj]==1:
+                    grid[noi][noj] = 2
                     fo-=1
                     if not fo:
                         return t+1
-                    grid[noi][noj] = 2
                     rotq.appendleft((noi,noj,t+1))
         return -1
