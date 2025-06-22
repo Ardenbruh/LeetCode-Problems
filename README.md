@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0419-battleships-in-a-board](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2427-first-letter-to-appear-twice](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -190,5 +193,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
