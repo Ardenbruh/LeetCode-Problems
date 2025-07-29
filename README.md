@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2427-first-letter-to-appear-twice](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0523-continuous-subarray-sum](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Binary Search
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Ardenbruh/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
